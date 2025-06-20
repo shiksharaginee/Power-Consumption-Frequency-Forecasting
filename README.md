@@ -3,7 +3,7 @@
 This project focuses on analyzing and forecasting frequency trends in power consumption data using statistical time series methods. The goal is to predict short-term frequency fluctuations with high accuracy using the ARIMA model.
 ## Project Overview
 - **Data Source**: Real-world power grid frequency data from https://www.cercind.gov.in/ (official public source).
-- **Tools Used**: Python, Pandas, Matplotlib, Seaborn, Statsmodels, Sklearn
+- **Tools Used**: Python, Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Sklearn
 - **Model Used**: ARIMA (AutoRegressive Integrated Moving Average)
 
 ## Key Features
